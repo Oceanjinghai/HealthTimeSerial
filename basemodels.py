@@ -1,5 +1,3 @@
-!pip install pyts
-!pip install tensorflow_addons
 from numpy.random import seed
 import pandas as pd
 import numpy as np
